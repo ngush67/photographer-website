@@ -2,9 +2,6 @@
 
 A modern and responsive portfolio website for a photographer to showcase their work and connect with clients.
 
-## 🌐 Live Demo
-[View the Live Website](https://your-username.github.io/photographer-website/)
-
 ---
 
 ## 📂 Project Structure
