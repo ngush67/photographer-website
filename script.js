@@ -1,4 +1,4 @@
-// Lightbox functionality
+// Lightbox functionality 
 const images = document.querySelectorAll('.gallery img');
 const lightbox = document.getElementById('lightbox');
 const lightboxImg = lightbox.querySelector('img');
